@@ -1,2 +1,2 @@
 # IDS-progetto
-Leggere pdf
+Leggere ProgettoFinaleIDS.pdf è la specifica
